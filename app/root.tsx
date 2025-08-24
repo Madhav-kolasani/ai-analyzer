@@ -38,12 +38,13 @@ export function Layout({ children }: { children: React.ReactNode }) {
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="google-site-verification" content="TTVf67TA_AsT0w6tIrFzGPhauar9CaZKmoMM1eaDZho" />
-        <meta name="description" content="AI Resume Analyzer is an advanced tool that helps job seekers optimize their resumes with AI-powered insights. Instantly analyze your resume, identify strengths, and get personalized improvement suggestions to increase your chances of landing interviews. Our smart analyzer checks formatting, keywords, and job relevance, making your resume stand out in today’s competitive job market.
+        <meta name="description" content="CV Coach by Madhav is an AI Resume Analyzer that helps job seekers optimize their resumes with AI-powered insights. Instantly analyze your resume, identify strengths, and get personalized improvement suggestions to increase your chances of landing interviews. Developed by Madhav, this smart analyzer checks formatting, keywords, and job relevance, making your resume stand out in today’s competitive job market.
 
           ✅ AI-Powered Insights Get real-time feedback on your resume.
           ✅ Keyword Optimization Match your resume with job descriptions.
           ✅ Easy & Fast Upload your resume and get instant results.
           ✅ Boost Hiring Chances Improve resume quality for better opportunities." />
+
         <meta name="description" content="CV Coach is your AI-powered resume analyzer that helps you create job-winning resumes. Instantly scan your CV, get personalized feedback, optimize keywords, and improve formatting to boost your chances of landing interviews. Fast, reliable, and designed for every job seeker." />
         <meta name="keywords" content="CV Coach, AI Resume Analyzer, Resume Optimizer, CV Analyzer, Resume Builder, Resume Checker, Job Application Tool, AI Career Coach, ATS Resume Analyzer, Resume Keywords Optimization" />
 
